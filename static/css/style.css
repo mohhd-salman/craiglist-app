@@ -1,0 +1,14 @@
+.card {
+    height: 350px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    min-height 150px;
+    max-height: 150px; /* Your height here */
+    overflow: hidden;
+}
+
+.card .card-content {
+    height: 120px;
+}
